@@ -1,0 +1,2 @@
+camoufox
+python-dotenv

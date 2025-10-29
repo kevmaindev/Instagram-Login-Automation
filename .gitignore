@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.swp
+
+# System
+.DS_Store
+Thumbs.db
+
+# Environments
+.env
+venv/
+env/
